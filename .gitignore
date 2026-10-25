@@ -1,0 +1,12 @@
+# Build output
+RenesasXHCIFix/build/
+*.kext/
+*.o
+
+# Fetched per README (see Build)
+vendor/
+
+# Local-only, never published
+efi-internal-backup*/
+efi-stick-backup-*.plist
+.DS_Store
